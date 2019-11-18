@@ -43,7 +43,7 @@ namespace Minhaclass
                     break;
 
                 case "d":
-                    Console.WriteLine($"Seu resultado: {num1} / {num2} = " + (num1 * num2));
+                    Console.WriteLine($"Seu resultado: {num1} / {num2} = " + (num1 / num2));
                     break;
             }
 
